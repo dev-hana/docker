@@ -47,7 +47,7 @@
    ```
    sudo apt-get update
    sudo apt-get install curl
-   curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+   curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
    ```
 
    ```
