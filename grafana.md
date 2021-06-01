@@ -95,3 +95,4 @@
    # build
    make run
    ```
+   ``nohup make run &`  
