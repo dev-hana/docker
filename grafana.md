@@ -97,3 +97,9 @@
    ```
    
    `nohup make run &`  
+   
+   
+   7. build grafana to docker image  
+      
+      `make build-docker-full`  
+      
